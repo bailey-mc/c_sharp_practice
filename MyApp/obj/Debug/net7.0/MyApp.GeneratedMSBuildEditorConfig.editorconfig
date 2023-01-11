@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyApp
-build_property.ProjectDir = /Users/bails/dev/dot_net_practice/MyApp/
+build_property.ProjectDir = /Users/bails/dev/dot_net_practice/c_sharp_practice/MyApp/

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "115jiSzJvX+Zvy5VkMnHGuIZeyxq4knjsMXUVr/623NdIt07isbB6Kmdani33LqGJdMfOiTBjyx37pPVLcv+Hw==",
+  "dgSpecHash": "PhbWw37H7vpR8UCAo7rG32wCqHTQhBwum8M0AG77QRt9YQqMKSTCAVZ1vuQhis8En8Wo7R9KlPJA9FoHRF6L3g==",
   "success": true,
-  "projectFilePath": "/Users/bails/dev/dot_net_practice/MyApp/MyApp.csproj",
+  "projectFilePath": "/Users/bails/dev/dot_net_practice/c_sharp_practice/MyApp/MyApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

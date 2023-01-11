@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bails/dev/dot_net_practice/MyApp/MyApp.csproj": {}
+    "/Users/bails/dev/dot_net_practice/c_sharp_practice/MyApp/MyApp.csproj": {}
   },
   "projects": {
-    "/Users/bails/dev/dot_net_practice/MyApp/MyApp.csproj": {
+    "/Users/bails/dev/dot_net_practice/c_sharp_practice/MyApp/MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bails/dev/dot_net_practice/MyApp/MyApp.csproj",
+        "projectUniqueName": "/Users/bails/dev/dot_net_practice/c_sharp_practice/MyApp/MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "/Users/bails/dev/dot_net_practice/MyApp/MyApp.csproj",
+        "projectPath": "/Users/bails/dev/dot_net_practice/c_sharp_practice/MyApp/MyApp.csproj",
         "packagesPath": "/Users/bails/.nuget/packages/",
-        "outputPath": "/Users/bails/dev/dot_net_practice/MyApp/obj/",
+        "outputPath": "/Users/bails/dev/dot_net_practice/c_sharp_practice/MyApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bails/.nuget/NuGet/NuGet.Config"
